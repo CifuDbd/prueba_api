@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2024/08/06 12:32:53.000.575,=C:\Users\FAMILIA\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2024/08/06 14:52:37.000.257,C:\Users\FAMILIA\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\FAMILIA\Documents\Delphi\Ap 3\Unit1.pas</Transaction>
+    <Transaction>2024/08/06 14:52:37.000.257,C:\Users\FAMILIA\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\Users\FAMILIA\Documents\Delphi\Ap 3\Unit1.dfm</Transaction>
+    <Transaction>2024/08/06 14:52:40.000.380,C:\Users\FAMILIA\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\FAMILIA\Documents\Delphi\Ap 3\Project1.dproj</Transaction>
+    <Transaction>2024/08/09 09:52:31.000.104,=C:\Users\FAMILIA\Documents\Delphi\prueba_api\Unit2.pas</Transaction>
+    <Transaction>2024/08/09 09:58:09.000.292,C:\Users\FAMILIA\Documents\Delphi\prueba_api\src._apiedit.pas=C:\Users\FAMILIA\Documents\Delphi\prueba_api\Unit2.pas</Transaction>
+    <Transaction>2024/08/09 10:02:38.000.363,C:\Users\FAMILIA\Documents\Delphi\prueba_api\src_apiedit.pas=C:\Users\FAMILIA\Documents\Delphi\prueba_api\src._apiedit.pas</Transaction>
+    <Transaction>2024/08/09 11:05:03.000.615,=C:\Users\FAMILIA\Documents\Delphi\prueba_api\Unit2.pas</Transaction>
+    <Transaction>2024/08/09 11:24:06.000.897,C:\Users\FAMILIA\Documents\Delphi\prueba_api\Unit2.pas=C:\Users\FAMILIA\Documents\Delphi\prueba_api\src_apitxt.pas</Transaction>
+    <Transaction>2024/08/09 12:36:15.000.757,C:\Users\FAMILIA\Documents\Delphi\prueba_api\src_apitxt.pas=C:\Users\FAMILIA\Documents\Delphi\prueba_api\src.pas</Transaction>
+    <Transaction>2024/08/09 12:36:29.000.812,C:\Users\FAMILIA\Documents\Delphi\prueba_api\src.pas=C:\Users\FAMILIA\Documents\Delphi\prueba_api\src_apitxt.pas</Transaction>
+    <Transaction>2024/08/09 12:50:03.000.573,=C:\Users\FAMILIA\Documents\Delphi\prueba_api\Unit2.pas</Transaction>
+    <Transaction>2024/08/09 12:50:33.000.137,C:\Users\FAMILIA\Documents\Delphi\prueba_api\Unit2.pas=C:\Users\FAMILIA\Documents\Delphi\prueba_api\src_stacsv.pas</Transaction>
+    <Transaction>2024/08/09 17:37:30.000.522,=C:\Users\FAMILIA\Documents\Delphi\prueba_api\Unit2.pas</Transaction>
+    <Transaction>2024/08/09 17:37:45.000.527,C:\Users\FAMILIA\Documents\Delphi\prueba_api\Unit2.pas=C:\Users\FAMILIA\Documents\Delphi\prueba_api\src_acgrid.pas</Transaction>
+    <Transaction>2024/08/12 08:37:40.000.786,=C:\Users\FAMILIA\Documents\Delphi\prueba_api\Unit2.pas</Transaction>
+    <Transaction>2024/08/12 08:38:24.000.137,C:\Users\FAMILIA\Documents\Delphi\prueba_api\Unit2.pas=C:\Users\FAMILIA\Documents\Delphi\prueba_api\src_StrGrid_Selec.pas</Transaction>
+    <Transaction>2024/08/12 10:03:23.000.460,C:\Users\FAMILIA\Documents\Delphi\prueba_api\Unit1.pas=C:\Users\FAMILIA\Documents\Delphi\prueba_api\ProyectoApi.pas</Transaction>
+    <Transaction>2024/08/12 10:03:23.000.460,C:\Users\FAMILIA\Documents\Delphi\prueba_api\Unit1.dfm=C:\Users\FAMILIA\Documents\Delphi\prueba_api\ProyectoApi.dfm</Transaction>
+  </Transactions>
+	<ProjectSortOrder AutoSort="0" SortType="0">
+    <File Path="ProyectoApi.pas"/>
+    <File Path="ProyectoApi.dfm"/>
+    <File Path="src_acgrid.pas"/>
+    <File Path="src_apiedit.pas"/>
+    <File Path="src_apitxt.pas"/>
+    <File Path="src_stacsv.pas"/>
+    <File Path="src_StrGrid_Selec.pas"/>
+  </ProjectSortOrder>
+</BorlandProject>
